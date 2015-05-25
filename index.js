@@ -18,7 +18,7 @@ var connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'chat'
+    database: 'test_database'
 });
 
 connection.connect();
